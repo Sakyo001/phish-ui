@@ -1,5 +1,5 @@
 // API Configuration
-const API_URL = 'https://phishguard-api-kwpg.onrender.com'; // Your Render API URL
+const API_URL = 'https://phishguard-api-kwpg.onrender.com/api/scan'; // Your Render API URL
 
 // DOM Elements
 const scanForm = document.getElementById('scanForm');
